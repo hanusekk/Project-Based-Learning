@@ -21,6 +21,12 @@ Two types of ToF sensors and lidar, two motors and an Nvidia Xavier were to be p
 ![schem](https://user-images.githubusercontent.com/92868145/213928097-91c905ce-4ca8-41cf-9b94-4e7e0dabc57b.png)
 
 ### Effects
+![boards](https://user-images.githubusercontent.com/92868145/213928304-06570189-60f6-467a-94f7-65a7f424adeb.png)
 
+
+## 3D Printing
+To model I used Autodesk Fusion 360, I did the printing on a Creality CR-2020 printer, and used an Ultimaker Cura for the G-code generation. The filament I used was PLA.
+### Models
+![3D](https://user-images.githubusercontent.com/92868145/213929036-aa8df670-30c9-4117-ba34-a1d12866dd8a.png)
 
 
